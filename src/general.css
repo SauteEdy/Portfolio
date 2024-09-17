@@ -1,0 +1,10 @@
+
+.custom-bg-fade{
+    background-color: rgb(0,0,0,0.5);
+}
+.custom-bg-home{
+    background-image: url("./assets/kerfin7_nea_2633.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
